@@ -16,8 +16,9 @@
 1718776050 c:\omar\programacion\c++\stack-and-queue\project\nodestack.h
 	"Student.h"
 
-1718774592 source:c:\omar\programacion\c++\stack-and-queue\project\queue.cpp
+1718776887 source:c:\omar\programacion\c++\stack-and-queue\project\queue.cpp
 	"Queue.h"
+	"Student.h"
 
 1718776564 c:\omar\programacion\c++\stack-and-queue\project\queue.h
 	"NodeQueue.h"
