@@ -19,7 +19,10 @@
 1718774592 source:c:\omar\programacion\c++\stack-and-queue\project\queue.cpp
 	"Queue.h"
 
-1718774592 c:\omar\programacion\c++\stack-and-queue\project\queue.h
+1718776564 c:\omar\programacion\c++\stack-and-queue\project\queue.h
+	"NodeQueue.h"
+	"Student.h"
+	<iostream>
 
 1718776343 source:c:\omar\programacion\c++\stack-and-queue\project\stack.cpp
 	"Stack.h"
