@@ -2,10 +2,12 @@
 1584205420 source:c:\omar\programacion\c++\stack-and-queue\project\main.cpp
 	<iostream>
 
-1718774555 source:c:\omar\programacion\c++\stack-and-queue\project\nodequeue.cpp
+1718774979 source:c:\omar\programacion\c++\stack-and-queue\project\nodequeue.cpp
 	"NodeQueue.h"
+	"Student.h"
 
-1718774555 c:\omar\programacion\c++\stack-and-queue\project\nodequeue.h
+1718774969 c:\omar\programacion\c++\stack-and-queue\project\nodequeue.h
+	"Student.h"
 
 1718774522 source:c:\omar\programacion\c++\stack-and-queue\project\nodestack.cpp
 	"NodeStack.h"
