@@ -33,10 +33,17 @@ void Stack::push(class Student data)
 
 void Stack::pop()
 {
-    NodeStack *aux=h;
+    if(h)
+    {
+        NodeStack *aux=h;
 
-    h=h->next;
-    delete aux;
+        h=h->next;
+        delete aux;
+    }
+    else
+    {
+        cout<<"Stack is already empty"<<endl;
+    }
 }
 
 NodeStack* Stack::top()

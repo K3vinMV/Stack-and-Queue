@@ -1,6 +1,11 @@
 # depslib dependency file v1.0
-1584205420 source:c:\omar\programacion\c++\stack-and-queue\project\main.cpp
+1718833466 source:c:\omar\programacion\c++\stack-and-queue\project\main.cpp
 	<iostream>
+	"Student.h"
+	"Stack.h"
+	"Queue.h"
+	"NodeQueue.h"
+	"NodeStack.h"
 
 1718776056 source:c:\omar\programacion\c++\stack-and-queue\project\nodequeue.cpp
 	"NodeQueue.h"
@@ -25,7 +30,7 @@
 	"Student.h"
 	<iostream>
 
-1718776343 source:c:\omar\programacion\c++\stack-and-queue\project\stack.cpp
+1718833535 source:c:\omar\programacion\c++\stack-and-queue\project\stack.cpp
 	"Stack.h"
 	"Student.h"
 	"NodeStack.h"

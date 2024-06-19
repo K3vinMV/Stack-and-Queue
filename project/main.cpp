@@ -114,7 +114,7 @@ int main()
                      cin>>rm;
                      if(rm==1)
                      {
-                         cout<<"Vaciando..."<<endl;
+                         cout<<"Emptying..."<<endl;
                          sta->removeAll();
                      }else
                      {
