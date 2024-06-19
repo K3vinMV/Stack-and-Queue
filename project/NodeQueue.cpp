@@ -5,10 +5,12 @@ NodeQueue::NodeQueue()
 {
     Student data;
     next=nullptr;
+    prev=nullptr;
     //ctor
 }
-NodeQueue::NodeQueue(class Student data, NodeQueue *next)
+NodeQueue::NodeQueue(class Student data, NodeQueue *next, NodeQueue *prev)
 {
     this->data=data;
     this->next=next;
+    this->prev=prev;
 }

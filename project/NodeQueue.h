@@ -7,10 +7,11 @@ class NodeQueue
 {
     public:
         NodeQueue *next;
+        NodeQueue *prev;
 
         Student data;
         NodeQueue();
-        NodeQueue(class Student, NodeQueue*);
+        NodeQueue(class Student, NodeQueue*, NodeQueue*);
 
 };
 

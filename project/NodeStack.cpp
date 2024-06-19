@@ -5,13 +5,11 @@ NodeStack::NodeStack()
 {
     Student data;
     next=nullptr;
-    prev=nullptr;
     //ctor
 }
 
-NodeStack::NodeStack(class Student data, NodeStack *next, NodeStack *prev)
+NodeStack::NodeStack(class Student data, NodeStack *next)
 {
     this->data=data;
     this->next=next;
-    this->prev=prev;
 }

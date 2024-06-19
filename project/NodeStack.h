@@ -6,11 +6,10 @@ class NodeStack
 {
     public:
         NodeStack *next;
-        NodeStack *prev;
 
         Student data;
         NodeStack();
-        NodeStack(class Student, NodeStack*, NodeStack*);
+        NodeStack(class Student, NodeStack*);
 
 };
 
